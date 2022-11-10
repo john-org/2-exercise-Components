@@ -10,7 +10,8 @@
   },
   "keywords": [],
   "name": "jsx-button",
-  "description": null,
+  "homepage": ".",
+  "description": "2-exercise-components",
   "version": "0.0.4",
   "scripts": {
     "start": "react-scripts start",
